@@ -1,0 +1,85 @@
+html {
+  font-size: 16px;
+}
+
+.top-padding {
+  margin-top: 8rem;
+}
+
+.navigation {
+  background: #2D2D2D;
+  color: #FEFEFE;
+  padding: 0 4rem;
+  /*background-image: url('../assets/background.jpg');
+  background-attachment: fixed;
+  background-position: 56%;
+  background-size: cover;*/
+}
+
+.navigation img.profile {
+  border-radius: 50%;
+  height: 100px;
+}
+
+.navigation p.lead {
+  line-height: 2rem;
+  margin-top: 2rem;
+  text-align: right;
+  width: 75%;
+}
+
+.navigation p.lead span {
+  color: white;
+  font-weight: bold;
+}
+
+.social-icons a {
+  text-decoration: none;
+}
+
+.social-icons i.fa {
+  border: 1px solid #CCCCCC;
+  border-radius: 50%;
+  font-size: 1.4rem;
+  margin: 0 0.3rem;
+  padding: 1rem;
+}
+
+.social-icons {
+  margin-top: 4rem;
+  text-align: right;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  opacity: 0.3;
+  margin-top: 2rem;
+  text-align: right;
+}
+
+.copyright span {
+  /*border-left: 1px solid #FEFEFE;*/
+}
+
+.main {
+  padding: 0 10rem 0 4rem;
+}
+
+.main h1 {
+  font-size: 2rem;
+  line-height: 3rem;
+}
+
+.main hr {
+  margin: 5rem 0;
+}
+
+.portfolio-item img {
+  border-radius: 0.4rem;
+  margin: 1rem 0 2rem;
+  width: 100%;
+}
+
+.portfolio-item h3 {
+  font-size: 1.2rem;
+}
